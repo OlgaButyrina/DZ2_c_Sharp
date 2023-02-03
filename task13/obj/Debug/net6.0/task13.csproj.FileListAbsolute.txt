@@ -1,0 +1,15 @@
+D:\Ольга\учеба ИТ\c#\DZ2\task13\bin\Debug\net6.0\task13.exe
+D:\Ольга\учеба ИТ\c#\DZ2\task13\bin\Debug\net6.0\task13.deps.json
+D:\Ольга\учеба ИТ\c#\DZ2\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+D:\Ольга\учеба ИТ\c#\DZ2\task13\bin\Debug\net6.0\task13.dll
+D:\Ольга\учеба ИТ\c#\DZ2\task13\bin\Debug\net6.0\task13.pdb
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.dll
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\refint\task13.dll
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.pdb
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+D:\Ольга\учеба ИТ\c#\DZ2\task13\obj\Debug\net6.0\ref\task13.dll
