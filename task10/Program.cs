@@ -11,8 +11,7 @@ int result = 0;
 if (n > 99 && n < 1000)
 {
     result = n / 10;
-    result = result % 10;
-    System.Console.Write("Вторая цифра этого числа - " + result);
+    System.Console.Write("Вторая цифра введённого числа - " + result%10);
 }
 else
 {

@@ -8,11 +8,11 @@ if (n == 6 || n == 7)
 {
     System.Console.Write("Выходной день");
 }
-else if (n > 7 || n < 0)
+else if (n >= 1 && n < 6)
 {
-    System.Console.Write("Такого дня недели не существует");
+    System.Console.Write("Будний день");
 }
 else
 {
-    System.Console.Write("Будний день");
+    System.Console.Write("Такого дня недели не существует");
 }
